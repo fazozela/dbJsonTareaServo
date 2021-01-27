@@ -1,3 +1,9 @@
 {
-    "posts": []
+    "posts": [
+        {
+            "sensor_name": "sensor de la cocina",
+            "tipo_de_alarma": "prendido de alarma",
+            "id": 1
+        }
+    ]
 }
